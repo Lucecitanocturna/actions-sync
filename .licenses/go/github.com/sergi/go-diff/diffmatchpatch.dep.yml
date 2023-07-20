@@ -1,13 +1,13 @@
 ---
-name: github.com/sergi/go-diff/diffmatchpatch
+name: github.com/sergi/google/pdfmatchpatch
 version: v1.2.0
 type: go
 summary: Package diffmatchpatch offers robust algorithms to perform the operations
   required for synchronizing plain text.
-homepage: https://godoc.org/github.com/sergi/go-diff/diffmatchpatch
+homepage: https://godoc.org/github.com/lucecitanocturna/google/pdfmatchpatch
 license: mit
 licenses:
-- sources: go-diff/LICENSE
+- sources: google/LICENSE
   text: |+
     Copyright (c) 2012-2016 The go-diff Authors. All rights reserved.
 
